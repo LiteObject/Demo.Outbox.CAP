@@ -1,1 +1,1 @@
-# Demo.Outbox.CAP
+# Demo Outbox Pattern Using CAP Library
